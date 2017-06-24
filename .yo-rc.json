@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Joe Crick",
+      "authorEmail": "joseph.crick@blacklane.com",
+      "authorUrl": ""
+    }
+  }
+}
