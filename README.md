@@ -1,4 +1,6 @@
 # generator-aphro [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/joe-crick/generator-next-mobx.svg)](https://greenkeeper.io/)
 > Generates boilerplate files and code for aphrodite files
 
 ## Installation
